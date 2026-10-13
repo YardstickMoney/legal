@@ -153,7 +153,7 @@ If you disconnect a linked financial account, we stop receiving new transaction 
 
 After account closure we delete or anonymise personal data within a reasonable period, except where required by law, to prevent fraud, maintain security, or establish, exercise or defend legal claims.
 
-If you have had a paid subscription, we also ask RevenueCat to delete its record of you. Deleting your Yardstick account does not cancel a subscription bought through the App Store or Google Play. You need to cancel it there.
+If you remove your Yardstick account, we will also archive or make inaccessible the data RevenueCat holds about you. Removing your account does not cancel a subscription bought through the App Store or Google Play. You need to cancel it there.
 
 Secure backups may persist for a limited period before being automatically overwritten.
 
