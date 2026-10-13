@@ -42,7 +42,7 @@ Access to our database systems is restricted to core maintenance, support and de
 
 ## We work with leading, recognised and secure vendors.
 
-Across our tech stack and infrastructure we only partner with vendors who are world class. From cloud providers (Azure, AWS, Google), to tech (GitHub, Docker), account management and analytics (PostHog, Clerk) and everything in between.
+Across our tech stack and infrastructure we only partner with vendors who are world class. From cloud providers (Azure, AWS, Google), to tech (GitHub, Docker), account management and analytics (PostHog, Clerk), subscriptions (RevenueCat) and everything in between.
 
 All our vendors are tracked through our compliance partner Vanta for ongoing monitoring.
 

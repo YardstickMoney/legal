@@ -84,6 +84,10 @@ By subscribing you agree:
 - cancellation takes effect at the end of the billing period
 - partial refunds are not provided unless required by law
 
+Subscriptions are bought through the Apple App Store or Google Play. They take the payment, and their terms apply to billing and refunds. To cancel, use the subscription settings of your App Store or Google Play account. Deleting the app or your Yardstick account does not cancel a subscription.
+
+We use RevenueCat, Inc. to keep track of your subscription, so that it is recognised wherever you sign in.
+
 We may change pricing with reasonable notice.
 
 ## 5. Service Availability and Third-Party Services
