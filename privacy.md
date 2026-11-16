@@ -20,10 +20,11 @@ Contact: privacy@yardstick.money
 
 There is certain information we need to collect in order to provide our Service to you and to continually improve and customise it.
 
-We collect information in three ways:
+We collect information in four ways:
 
 - Information you provide directly
 - Information received via Open Banking providers
+- Information about a paid subscription, if you take one out
 - Information collected automatically when you use the Service
 
 ### Information You Provide
@@ -54,6 +55,14 @@ We receive read-only financial information such as:
 
 We never receive your bank login credentials and cannot access your online banking account directly, initiate payments, or move money. Access to financial data is provided under Open Banking regulations and may expire periodically. You may be asked to reconfirm your consent through your bank, facilitated by TrueLayer. You can withdraw consent at any time through your bank or via TrueLayer.
 
+### Subscription Information
+
+If you take out a paid subscription, you buy it through the Apple App Store or Google Play. They take the payment. We never receive your card or bank details.
+
+We use RevenueCat, Inc. to manage subscriptions on our behalf. RevenueCat receives the identifier of your Yardstick account and your purchase and subscription history from the App Store or Google Play. It does not receive your payment details.
+
+From RevenueCat we receive whether your subscription is active, which plan it is, and when it renews or ends.
+
 ### Automatically Collected Information
 
 We collect limited technical data when you use the Service, such as device information, IP address, log files, usage activity, and app interactions. Our website may use cookies, and you will be able to manage cookie preferences where applicable.
@@ -67,6 +76,7 @@ We use personal data only where permitted by data protection law and in a way wh
 - display transactions and balances
 - categorise spending
 - generate insights, trends, dashboards and comparisons
+- manage a paid subscription and the features it includes
 
 **Operate and Improve**
 
@@ -122,6 +132,7 @@ We may share data only where necessary with:
 
 - Service providers (e.g. hosting, analytics, customer support, communications providers)
 - Open Banking providers (such as TrueLayer) to allow you to connect your accounts
+- Subscription providers (Apple, Google and RevenueCat) to take payment for and manage a paid subscription
 - Legal or regulatory authorities where required by law or to protect rights, safety, or prevent fraud.
 
 All service providers process your data only on instruction and are required to safeguard it.
@@ -132,6 +143,8 @@ Some service providers may process data outside the United Kingdom.
 
 Where this occurs, we implement appropriate safeguards such as adequacy regulations or approved contractual protections.
 
+RevenueCat, which manages paid subscriptions for us, processes data in the United States under such protections.
+
 ## 9. Data Retention
 
 We keep personal data only as long as necessary to provide the Service and meet legal obligations.
@@ -139,6 +152,8 @@ We keep personal data only as long as necessary to provide the Service and meet 
 If you disconnect a linked financial account, we stop receiving new transaction data from that account, although previously imported information may remain in the Service unless you delete your account with us.
 
 After account closure we delete or anonymise personal data within a reasonable period, except where required by law, to prevent fraud, maintain security, or establish, exercise or defend legal claims.
+
+If you remove your Yardstick account, we will also archive or make inaccessible the data RevenueCat holds about you. Removing your account does not cancel a subscription bought through the App Store or Google Play. You need to cancel it there.
 
 Secure backups may persist for a limited period before being automatically overwritten.
 
