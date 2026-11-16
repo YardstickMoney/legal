@@ -20,10 +20,11 @@ Contact: privacy@yardstick.money
 
 There is certain information we need to collect in order to provide our Service to you and to continually improve and customise it.
 
-We collect information in four ways:
+We collect information in five ways:
 
 - Information you provide directly
 - Information received via Open Banking providers
+- Information received from investment and pension account providers, if you connect one
 - Information about a paid subscription, if you take one out
 - Information collected automatically when you use the Service
 
@@ -54,6 +55,18 @@ We receive read-only financial information such as:
 - account types
 
 We never receive your bank login credentials and cannot access your online banking account directly, initiate payments, or move money. Access to financial data is provided under Open Banking regulations and may expire periodically. You may be asked to reconfirm your consent through your bank, facilitated by TrueLayer. You can withdraw consent at any time through your bank or via TrueLayer.
+
+### Investment and Pension Account Data
+
+If you choose to connect an investment, pension or crypto account, you will be taken to SnapTrade, run by Passiv Inc., to sign in to that account. You give SnapTrade permission to share read-only information about it with Yardstick.
+
+We receive:
+
+- account values and cash balances
+- what the account holds, such as funds, shares and cash, with quantities and values
+- account activity, such as money paid in and out, buys and sells, dividends, interest and fees
+
+We never receive your login details for that account. The connection is read-only: neither we nor SnapTrade can place trades or move money through it. You can end the connection from your account with that provider.
 
 ### Subscription Information
 
@@ -92,7 +105,7 @@ We use personal data only where permitted by data protection law and in a way wh
 **Support and Communications**
 
 - respond to enquiries and resolve issues
-- send service notifications and product updates
+- send service notifications and product updates, by push notification or email
 - send optional marketing communications (you can unsubscribe at any time)
 
 We only collect data necessary to provide the features you choose to use.
@@ -109,7 +122,7 @@ We process personal data under:
 
 - Contract - to provide the Service you request
 - Legitimate interests - to operate, improve and secure the Service
-- Consent - for Open Banking connections and optional marketing
+- Consent - for Open Banking and investment account connections, and optional marketing
 - Legal obligations - where required by law
 
 This is in line with UK GDPR laws and regulations.
@@ -132,6 +145,8 @@ We may share data only where necessary with:
 
 - Service providers (e.g. hosting, analytics, customer support, communications providers)
 - Open Banking providers (such as TrueLayer) to allow you to connect your accounts
+- Investment account providers (SnapTrade) to allow you to connect investment, pension and crypto accounts
+- Our email provider (Loops, run by Astrodon Corporation) to send you service emails, such as when a bank connection needs reconfirming or your monthly vitals are ready, and optional marketing emails
 - Subscription providers (Apple, Google and RevenueCat) to take payment for and manage a paid subscription
 - Legal or regulatory authorities where required by law or to protect rights, safety, or prevent fraud.
 
@@ -143,7 +158,7 @@ Some service providers may process data outside the United Kingdom.
 
 Where this occurs, we implement appropriate safeguards such as adequacy regulations or approved contractual protections.
 
-RevenueCat, which manages paid subscriptions for us, processes data in the United States under such protections.
+RevenueCat, which manages paid subscriptions for us, SnapTrade, which connects investment and pension accounts, and Loops, which sends our emails, process data in the United States under such protections.
 
 ## 9. Data Retention
 
@@ -153,7 +168,7 @@ If you disconnect a linked financial account, we stop receiving new transaction 
 
 After account closure we delete or anonymise personal data within a reasonable period, except where required by law, to prevent fraud, maintain security, or establish, exercise or defend legal claims.
 
-If you remove your Yardstick account, we will also archive or make inaccessible the data RevenueCat holds about you. Removing your account does not cancel a subscription bought through the App Store or Google Play. You need to cancel it there.
+If you remove your Yardstick account, we will also archive or make inaccessible the data RevenueCat holds about you, remove your SnapTrade connections, and delete your contact record at Loops. Removing your account does not cancel a subscription bought through the App Store or Google Play. You need to cancel it there.
 
 Secure backups may persist for a limited period before being automatically overwritten.
 

@@ -61,7 +61,7 @@ We have no access to your bank login credentials.
 
 ### 3.3 Data Accuracy
 
-Financial data is provided by banks and financial institutions via Open Banking, or entered directly by you as a user.
+Financial data is provided by banks and financial institutions via Open Banking, by investment and pension providers via SnapTrade, or entered directly by you as a user.
 
 We do not control:
 
