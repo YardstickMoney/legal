@@ -1,210 +1,124 @@
-# Privacy Policy
+# Yardstick privacy notice
+This notice explains how Yardstick Money Ltd (company number 16551988, “Yardstick”, “we”, “us” or “our”) uses your personal information, who receives it, how long we keep it and your choices.
 
-We take your privacy extremely seriously at Yardstick. The Privacy Policy below specifies how we treat your personal data and some of the steps we take to protect it. For more detail on Security you can see this [here](security.md).
+It covers our consumer app, related website and communications. Banks and bank-connection providers have their own privacy information.
 
-By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies described below and consent to the collection and use of your information as described in this Privacy Policy.
+## Who are we?
+Yardstick helps you understand your spending, assets and financial position. You can create an account, connect supported bank accounts and upload asset documents. Yardstick Money Ltd is the controller for its own service processing: this means we decide why and how your information is used. Banks and account-connection providers explain their own responsibilities when you connect an account.
 
-Your use of Yardstick's Services is at all times subject to the Platform Terms of Service (the "Terms").
+Registered address: 81 Rivington Street, London EC2A 3AY.
 
-As we improve our Services, we may update this Privacy Policy from time to time. Any material changes will be notified on our website and, where appropriate, by email or in-app notification. Continued use of the Service after an update means you accept the changes.
+Privacy enquiries: privacy@yardstick.money.
 
-## 1. Who we are
+## What personal information do we collect?
 
-Yardstick Money Ltd ("Yardstick", "we", "us", "our") is a company incorporated in England and Wales (company number 16551988) with registered office at 81 Rivington Street, London EC2A 3AY.
+We collect information needed to provide and administer the features you use. This includes account and contact details; connected-account, transaction and balance information; derived analytics; asset documents and extracted holdings; categorisation; product-usage information; communications, support and marketing preferences; security records; and limited subscription, billing and legally required records.
 
-For the purposes of the UK General Data Protection Regulation ("UK GDPR") and the Data Protection Act 2018, Yardstick is the data controller of the personal data described in this Privacy Policy.
+We obtain this information from you, from financial institutions and account providers you authorise, and from the systems and providers used to operate and protect the service.
 
-Contact: privacy@yardstick.money
+We keep personal information only for as long as necessary for the relevant purpose, legal requirement or claim, in line with Yardstick’s approved retention schedule. When an account closes, a connection ends or a valid request applies, we stop the relevant use and delete or anonymise the information unless it must be retained.
 
-## 2. Why and how we collect information
+## Information needing particular care
+* Our service is intended for adults aged 18 or over.
+* Uploaded documents can include information about other people. Provide only documents you are entitled to share and minimise unrelated third-party details.
+* Transactions and documents can reveal sensitive information, such as health or beliefs, even where it is not needed for a feature. Please avoid uploading unrelated sensitive details. We limit the information used for each task. Any deliberate use of sensitive information requires a specific purpose, an additional applicable legal condition and appropriate safeguards; we explain such a use before it begins.
 
-There is certain information we need to collect in order to provide our Service to you and to continually improve and customise it.
+## How do we use your personal information?
+We use your information for the purposes below.
 
-We collect information in five ways:
+Each use must have a legal basis.
 
-- Information you provide directly
-- Information received via Open Banking providers
-- Information received from investment and pension account providers, if you connect one
-- Information about a paid subscription, if you take one out
-- Information collected automatically when you use the Service
+* Contract means that processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract.
+* Consent means you agree to a specific use and can withdraw that agreement at any time.
+* Legitimate interests means a necessary business interest that we have assessed against your rights.
+* Legal obligation means a specific legal duty requires the use.
 
-### Information You Provide
+Your Open Banking or Consumer Data Right consent is separate from the legal basis for using information under GDPR.
 
-This may include:
+| Purpose and information used | Data Categories Used | Legal basis and scope |
+| :---- | :---- | :---- |
+| **Account Creation & Management** Setting up your account, logging you in securely, and managing your subscription access. | • Account Identifiers (Name, email address, user ID) • Security Credentials (Hashed password, multi-factor auth tokens) • Account Preferences (Settings, notification choices) • Subscription Status (Plan type, renewal dates) | **Performance of a Contract** (Art. 6(1)(b)) Necessary to create and maintain your account so you can access the service you signed up for.  |
+| **Financial Data Connection** Securely connecting to your banks to pull in live balances/transactions, or reading files you upload manually.  | • Open Banking Credentials & Tokens (API connection tokens, consent status) • Financial Institution Details (Bank name, account type, sort code/account number) • Bank Transaction Logs & Balances • User-Uploaded Financial Files (PDF bank statements, CSV exports, manual entry) | **Consent** (Art. 6(1)(a) & Open Banking regulations) Under Open Banking regulations and data protection laws, connecting your bank requires your explicit permission.  |
+| **Personal Financial Visibility** Cleaning and organising your financial data into a single view showing net worth, spending, debts, and joint costs  | • Categorised Transaction Data (Merchant names, amounts, categories) • Balance & Liability Metrics (Credit card debt, loan balances, savings totals) • Consolidated Financial Calculations (Net worth, cash flow totals, shared cost splits)  | **Performance of a Contract** (Art. 6(1)(b)) Core to deliver the main feature of the app - providing you with clear, organized insights into your money.  |
+| **Anonymous Community Benchmarks** Comparing your financial progress (like savings or debt payoff) anonymously against similar user profiles. | • De-identified Financial Metrics (Anonymised savings rates, housing cost ratios) • Demographics & Profile Attributes (Age bracket, broad location/region, life stage) | **Legitimate Interests** (Art. 6(1)(f)) Provides value through community benchmarks without risking your privacy, as data is de-identified prior to cohort analysis.  |
+| **Product Improvement & Analytics** Monitoring performance, fixing bugs, testing features, and training automatic transaction categorisers. | • Technical Telemetry (Device type, OS version, app performance logs, crash reports) • Usage & Feature Interaction (Buttons clicked, screens viewed, time in app) • Aggregated Transaction Text (Vendor strings used to train categorisation algorithms) | **Legitimate Interests** (Art. 6(1)(f)) Necessary for our legitimate interest in ensuring app stability, fixing technical bugs, optimizing features, and training automated categorization models. Where analytics rely on non-essential on-device cookies or third-party tracking SDKs, we ask for your consent. |
+| **Market Research & Macro Trends** Combining fully anonymized data to publish broad, high-level research reports on consumer financial health.  | • Fully Anonymised & Aggregated Financial Trends (Broad spending averages across categories, non-identifiable macro datasets) | Not Subject to GDPR (Once fully anonymized)  |
+| **Customer Support & Operational Alerts** Helping you troubleshoot issues, fixing bank connection drops, and sending critical security or billing alerts.  | • Support Interaction Records (Support tickets, message logs, chat history) • Diagnostic Logs (Bank connection status logs, error codes) • Contact Details (Email address, phone number) | **Performance of a Contract** (Art. 6(1)(b)) & **Legal Obligation** (Art. 6(1)(c)) Serves to troubleshoot features you paid for or requested support on, while security/regulatory notifications satisfy legal compliance duties. |
+| **Marketing & News** Sending optional money tips, feature announcements, promotional offers, and tracking website visits.  | • Contact Data (Email address, name) • Engagement Tracking Data (Email open/click rates, marketing consent records) • Cookie & Pixel Identifiers (Ad conversion tracking IDs) | **Consent** (Art. 6(1)(a)) Optional marketing communications and web tracking pixels strictly require your explicit opt-in under PECR/UK GDPR.  |
+| **Platform Security & Compliance** Safeguarding our systems from cyber attacks or fraud, and meeting financial/privacy regulatory obligations.  | • Audit & Security Logs (IP addresses, login timestamps, security incident logs) • Identity Verification Data (KCY/AML status records if applicable) • Regulatory Compliance Logs (Consent records, FCA agent audit trails) | **Legal Obligation** (Art. 6(1)(c)) & **Legitimate Interests** (Art. 6(1)(f)) Required to fulfill obligations under ICO, FCA, and ISO security standards, alongside protecting systems against criminal activity.  |
+| **Billing & Corporate Accounting** Managing subscription invoices, fulfilling corporate tax reporting, and tracking business revenue. | • Payment & Billing Records (Invoice history, payment status, subscription tier, billing address) • Transaction Identifiers (Payment processor tokens - *no full card numbers stored*)  | **Performance of a Contract** (Art. 6(1)(b)) & **Legal Obligation** (Art. 6(1)(c)) Required to collect payment for services provided and retain financial records for statutory tax and accounting laws.  |
+| **Employee & HR Management** Handling recruitment, paying salaries, running background checks, and managing internal staff contracts. | • Personnel Records (Employee name, address, tax code, salary, bank details) • HR & Recruitment Data (CVs, interview notes, right-to-work checks, criminal background checks) | **Performance of a Contract** (Art. 6(1)(b)) & **Legal Obligation** (Art. 6(1)(c)) Applies strictly to internal staff and job applicants to fulfill employment contracts, process payroll, and meet employment regulations. |
 
-- name and email address
-- age range or date of birth
-- postcode or general location
-- household or lifestyle information
-- information you enter into the app (categories, goals, or notes)
-- communications with customer support
+Other necessary disclosures may include:
 
-You may use some features of the Service without connecting a bank account.
+* **Business transfers**: a proposed or actual merger, investment, asset transfer or insolvency process may require limited information, with appropriate confidentiality and purpose limits.
+* **Legal process**: disclosures required by an applicable law, regulator or court, limited to the request and lawful scope.
+* **Protection of people and the service**: necessary, proportionate disclosures for a documented investigation, security incident or legal claim, using an assessed lawful basis.
 
-### Open Banking Financial Data
+## Profiling and automated processing
+We use rules and models to suggest transaction categories, extract information from documents and produce financial summaries, wealth comparisons and peer groups. These activities may infer aspects of your financial behaviour. Results can be incomplete or inaccurate. Contact our privacy contact to request correction of source information or challenge an output.
 
-If you choose to connect a financial account, you will be redirected to our authorised Open Banking provider, TrueLayer Ltd.
+The service described here provides financial visibility. It does not make financial, credit or eligibility decisions.
 
-You provide consent directly to TrueLayer to access your bank account information and share selected data with Yardstick. Yardstick does not access your bank account itself.
+## Cookies and similar technologies
 
-We receive read-only financial information such as:
+We use technologies needed to sign you in and operate the features you request. Optional analytics and marketing technologies are used only in accordance with the choices presented to you.
 
-- account balances
-- transaction history - including dates and amounts
-- merchant details - including payment references
-- account types
+## Who receives your personal information?
+We use providers to support us for varying parts of the service. They receive the information needed for their task:
 
-We never receive your bank login credentials and cannot access your online banking account directly, initiate payments, or move money. Access to financial data is provided under Open Banking regulations and may expire periodically. You may be asked to reconfirm your consent through your bank, facilitated by TrueLayer. You can withdraw consent at any time through your bank or via TrueLayer.
+* TrueLayer: Open banking read-only account connectivity and retrieval.
+* SnapTrade: Brokerage and investment read-only account connectivity and retrieval.
+* Amazon Web Services (AWS): core hosting and processing, including some categorisation through Amazon Bedrock.
+* Google Gemini: extraction of asset information from uploaded documents. Payment providers or app stores process subscription payments where applicable.
+* Clerk: registration and authentication.
+* PostHog: product usage and device events for analytics, subject to the applicable cookie or tracking choice.
+* Loops: contact details and delivery information for service messages and separately authorised marketing.
+* Professional advisers and business tools may receive relevant administration or security records.
 
-### Investment and Pension Account Data
+Where necessary and lawful, recipients may also include:
 
-If you choose to connect an investment, pension or crypto account, you will be taken to SnapTrade, run by Passiv Inc., to sign in to that account. You give SnapTrade permission to share read-only information about it with Yardstick.
+* regulators, courts and public authorities;
+* professional advisers and parties involved in a prospective or actual business transfer, subject to appropriate restrictions.
 
-We receive:
+## How do we protect, correct and delete information?
+We use access restrictions, encryption, protected credentials and incident procedures to protect information, and limit the information included in operational logs. You can use our privacy contact to report incorrect information or a security concern (see contact details at end of document).
 
-- account values and cash balances
-- what the account holds, such as funds, shares and cash, with quantities and values
-- account activity, such as money paid in and out, buys and sells, dividends, interest and fees
+When information is deleted, we also address related personal summaries and relevant copies held by our service providers. Backups are kept outside routine use and expire in accordance with Yardstick’s approved retention schedule. If a backup is restored, relevant earlier deletions and restrictions are reapplied before the information is used. Limited information may be retained where required by law or for a legal claim.
 
-We never receive your login details for that account. The connection is read-only: neither we nor SnapTrade can place trades or move money through it. You can end the connection from your account with that provider.
+## Where is your information processed?
+Personal information may be processed in the UK and in other countries where Yardstick’s providers operate. Where information is transferred outside the UK or EEA, Yardstick uses the safeguards required by applicable data-protection law. Contact us for more information about relevant transfers and safeguards.
 
-### Subscription Information
+## Your data rights
+Where UK/EEA data protection law applies, the following rights may apply, subject to the relevant conditions and exceptions:
 
-If you take out a paid subscription, you buy it through the Apple App Store or Google Play. They take the payment. We never receive your card or bank details.
+* receive clear information about how your information is used;
+* request access to your personal information;
+* ask us to correct inaccurate or incomplete personal information;
+* ask us to erase personal information in the circumstances provided by law;
+* withdraw consent where processing relies on it, including an optional marketing choice;
+* object at any time to direct marketing and related profiling;
+* ask for processing to be restricted in the relevant circumstances;
+* object to processing based on legitimate interests, subject to the applicable conditions;
+* revoke account-access permission through the available provider/product route; contact us if you need help;
+* receive or transfer eligible information in a portable form where the right applies;
+* request the safeguards and review available for relevant significant automated decisions;
+* complain to the relevant data protection authority.
 
-We use RevenueCat, Inc. to manage subscriptions on our behalf. RevenueCat receives the identifier of your Yardstick account and your purchase and subscription history from the App Store or Google Play. It does not receive your payment details.
+Contact privacy@yardstick.money to exercise a right. You do not need to use a particular subject line. We may ask for proportionate information to verify identity and locate the relevant records.
 
-From RevenueCat we receive whether your subscription is active, which plan it is, and when it renews or ends.
+We respond within the applicable legal period, generally one month for UK/EEA rights requests. Where a lawful extension, clarification or refusal applies, we explain the position and your complaint route. Requests are normally free; any lawful exception is explained.
 
-### Automatically Collected Information
+## Complaints
+If you have a concern about our use of your information, contact privacy@yardstick.money. You can complain by email or in writing at the address above. We will investigate without undue delay, keep you informed and explain the outcome.
 
-We collect limited technical data when you use the Service, such as device information, IP address, log files, usage activity, and app interactions. Our website may use cookies, and you will be able to manage cookie preferences where applicable.
+You can complain to the UK Information Commissioner’s Office at https://ico.org.uk/make-a-complaint/. Where EU GDPR applies, you can complain to a relevant EEA supervisory authority, including where you live or work.
 
-## 3. How We Use Your Information
+## Contact and updates
+Controller: Yardstick Money Ltd.
 
-We use personal data only where permitted by data protection law and in a way which allows us to:
+Registered address: 81 Rivington Street, London EC2A 3AY.
 
-**Provide the Service to you**
+Privacy enquiries: privacy@yardstick.money.
 
-- display transactions and balances
-- categorise spending
-- generate insights, trends, dashboards and comparisons
-- manage a paid subscription and the features it includes
-
-**Operate and Improve**
-
-- maintain and improve functionality
-- develop features and analytics
-- monitor performance
-
-**Security**
-
-- protect accounts and prevent unauthorised access
-- detect fraud and misuse
-
-**Support and Communications**
-
-- respond to enquiries and resolve issues
-- send service notifications and product updates, by push notification or email
-- send optional marketing communications (you can unsubscribe at any time)
-
-We only collect data necessary to provide the features you choose to use.
-
-## 4. Automated Analysis
-
-We analyse financial data using automated processes to categorise transactions and generate summaries, ratios, benchmarks and financial insights.
-
-This processing is informational only. It does not determine eligibility for credit, affect financial products, or produce legal or similarly significant effects. No decisions about you are made solely by automated means.
-
-## 5. Legal Basis for Processing
-
-We process personal data under:
-
-- Contract - to provide the Service you request
-- Legitimate interests - to operate, improve and secure the Service
-- Consent - for Open Banking and investment account connections, and optional marketing
-- Legal obligations - where required by law
-
-This is in line with UK GDPR laws and regulations.
-
-## 6. Aggregated and Anonymised Data
-
-We may create anonymised and aggregated data derived from use of the Service.
-
-Anonymised data cannot reasonably identify you directly or indirectly. It may include statistical patterns, behavioural trends, and benchmarking across groups of users.
-
-We may use this information to improve the Service, conduct research, for lawful business purposes, publish reports and develop new products but they will never identify individual users.
-
-Where we use third-party analytical or processing tools, we share only the data necessary to provide the feature and, in a de-identified form.
-
-We do not sell your individual financial data.
-
-## 7. Sharing Your Information
-
-We may share data only where necessary with:
-
-- Service providers (e.g. hosting, analytics, customer support, communications providers)
-- Open Banking providers (such as TrueLayer) to allow you to connect your accounts
-- Investment account providers (SnapTrade) to allow you to connect investment, pension and crypto accounts
-- Our email provider (Loops, run by Astrodon Corporation) to send you service emails, such as when a bank connection needs reconfirming or your monthly vitals are ready, and optional marketing emails
-- Subscription providers (Apple, Google and RevenueCat) to take payment for and manage a paid subscription
-- Legal or regulatory authorities where required by law or to protect rights, safety, or prevent fraud.
-
-All service providers process your data only on instruction and are required to safeguard it.
-
-## 8. International Transfers
-
-Some service providers may process data outside the United Kingdom.
-
-Where this occurs, we implement appropriate safeguards such as adequacy regulations or approved contractual protections.
-
-RevenueCat, which manages paid subscriptions for us, SnapTrade, which connects investment and pension accounts, and Loops, which sends our emails, process data in the United States under such protections.
-
-## 9. Data Retention
-
-We keep personal data only as long as necessary to provide the Service and meet legal obligations.
-
-If you disconnect a linked financial account, we stop receiving new transaction data from that account, although previously imported information may remain in the Service unless you delete your account with us.
-
-After account closure we delete or anonymise personal data within a reasonable period, except where required by law, to prevent fraud, maintain security, or establish, exercise or defend legal claims.
-
-If you remove your Yardstick account, we will also archive or make inaccessible the data RevenueCat holds about you, remove your SnapTrade connections, and delete your contact record at Loops. Removing your account does not cancel a subscription bought through the App Store or Google Play. You need to cancel it there.
-
-Secure backups may persist for a limited period before being automatically overwritten.
-
-## 10. Your Rights
-
-You have the right to:
-
-- access your data
-- correct inaccurate data
-- request deletion
-- restrict processing
-- data portability
-- object to certain processing
-
-To exercise your rights contact: privacy@yardstick.money
-
-You have the right to lodge a complaint with the Information Commissioner's Office (ICO) at www.ico.org.uk, although we encourage you to contact us first so we can try to resolve your concern. Our registration number is ZC044635.
-
-## 11. Security
-
-We implement appropriate technical and organisational measures to protect your data, including encryption in transit and secure storage practices. For additional detail on our Security read more [here](security.md).
-
-You are responsible for maintaining the confidentiality of your login credentials and should notify us immediately if you suspect unauthorised access.
-
-No online system can be completely secure and we cannot guarantee absolute security.
-
-## 12. Data Breaches
-
-If a security incident affecting your personal data occurs, we will notify affected users and regulators where required by law and take steps to mitigate the impact.
-
-## 13. Children
-
-The Service is not intended for individuals under 18 and we do not knowingly collect children's personal data.
-
-## 14. Contact
-
-If you have questions about this Privacy Policy or personal data:
-
-privacy@yardstick.money
+We update this notice when relevant uses, recipients, locations, periods or choices change and tell you about material changes before a new use begins.
